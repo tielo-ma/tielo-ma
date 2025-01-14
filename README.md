@@ -8,6 +8,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tielo-ma&layout=compact&langs_count=16&theme=dracula"/>
 
   ##
+
+![snake gif](https://github.com/tielo-ma/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
+
+
+  
 -🌱Atualmente estou estudando: Python, C e JavaScript -"Juntamente com HTML e CSS"- 
 ##
 -Apaixonado por tecnologia, educação e por ajudar a facilitar a vida das pessoas através da programação.
