@@ -1,41 +1,25 @@
 - ### Ola, Marcelo aqui! =)
-- 👀 Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e futuramente pretendo trabalhar com análise de dados, cybersecurity ou redes.
+  - Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e pretendo trabalhar como programador e mais para frente farei uma pós em cibersegurança.
 ##
-
-<div>
-  <a href= "https://github.com/tielo-ma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tielo-ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tielo-ma&layout=compact&langs_count=16&theme=dracula"/>
-
-  ##
-
-![snake gif](https://github.com/tielo-ma/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-
-
 
   
--🌱Atualmente estou estudando: Python, C e JavaScript -"Juntamente com HTML e CSS"- 
-##
--Apaixonado por tecnologia, educação e por ajudar a facilitar a vida das pessoas através da programação.
-##
-
-### Sobre meu projeto de app de vendas:
-
--A criação deste aplicativo surgiu na intenção de facilitar as vendas de um item, onde o usuário pode contar com um layout bem inovador e bonito,
-onde vai não só facilitar o entendimento como vai ser bem dinâmico para o usuário final.
-
--Ainda estou terminando partes do seu layout e algumas interações com os botões.
+-🌱Há um tempo venha estudando e me atualizando sobre as tecnologias mais usadas-
+Python 
+  -Flet
+  -Django
+  -Pandas
+JavaScript
+  -React
+HTML, CSS
 
 ##
+-Apaixonado por tecnologia e por ajudar a facilitar a vida das pessoas através da programação.
+##
 
-### Sobre o jogo Super Trunfo em C:
+### Sobre meu projeto de me tornar um programador
 
--Estou tendo a oportunidade de fazer um jogo de super trunfo em linguagem C, onde o usuário irá interagir e cadastrar suas cartas através do terminal.
+-Sempre fui ficcionado por tecnologia, e um dia sonhava em poder trabalhar e me dedicar a essa vida, pois sei que é uma área onde exige muito estudo e dedicação.
+-Após ficar um bom tempo em uma areá que não tem relação com programação, hoje volto a estudar e agora mais decidido do que antes em me tornar um grande programador e poder não só criar sistemas, mas fazer algo em prol do bem mundial.
+-Tenho tantos sonhos, que poderia escrever um livro, mas por hora quero me dedicar e conseguir meu sucesso por mérito, espero aqui poder compartilhar meus estudos, projetos próprios e outros casos que envolvam a programação em si.
+-Lembrando que estou aprendendo e sempre disposto a aprender com meus erros e com dias que vão facilitar minha codagem.
 
--Mais para frente irei implementar um segundo cadastro de cartas para que o usuário possa cadastrar uma segunda carta para que as duas possam competir entre elas.
-
-
-<!---
-tielo-ma/tielo-ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
