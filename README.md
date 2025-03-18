@@ -1,6 +1,6 @@
 
 Olá, eu sou Marcelo! 👋
-👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na Estácio
+👨‍💻 ![Estudante de ADS](https://img.shields.io/badge/Estudante_de_ADS-8A2BE2?style=for-the-badge&logo=book&logoColor=white) na Estácio
 🌱 Atualmente aprendendo e aprimorando minhas habilidades em programação
 🚀 Focado em me tornar um desenvolvedor full-stack e desenvolvimento mobile
 💡 Apaixonado por resolver problemas e criar soluções inovadoras
@@ -9,8 +9,8 @@ Olá, eu sou Marcelo! 👋
 Aqui estão algumas das tecnologias e ferramentas que estou estudando e utilizando:
 
 Linguagens de Programação:
-Python
-JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 Front-end:
