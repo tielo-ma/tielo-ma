@@ -1,5 +1,5 @@
-
 Olá, eu sou Marcelo! 👋
+
 👨‍💻 ![Estudante de ADS](https://img.shields.io/badge/Estudante_de_ADS-8A2BE2?style=for-the-badge&logo=book&logoColor=white) na Estácio
 🌱 Atualmente aprendendo e aprimorando minhas habilidades em programação
 🚀 Focado em me tornar um desenvolvedor full-stack e desenvolvimento mobile
