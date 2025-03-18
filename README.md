@@ -55,21 +55,25 @@ Nome do Projeto 2 - Breve descrição do projeto.
 Nome do Projeto 3 - Breve descrição do projeto.
 
 
-🌐### Conecte-se comigo
+### 🌐Conecte-se comigo
 Vamos trocar ideias e colaborar em projetos! Você pode me encontrar em:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/marcelo-andrade-984170310/))
 
-📝 Blog ou Artigos
-(Se você escreve artigos ou tem um blog, inclua links aqui!)
+### 📝 Portfólio em Desenvolvimento
+https://privyma.netlify.app/
 
-🎯 Objetivos
+### 🎯 Objetivos
 Aprender mais sobre desenvolvimento mobile
+
+Desenvolver habilidades em Pentest Kali/Linux
 
 Contribuir para projetos open source
 
 Desenvolver um portfólio sólido
 
 Obrigado por visitar meu perfil! 😄
+
 Vamos codar juntos! 🚀
+
