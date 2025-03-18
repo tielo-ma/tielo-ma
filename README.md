@@ -10,6 +10,12 @@
 
 🛠️ Tecnologias e Ferramentas
 
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tielo-ma&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tielo-ma&layout=compact&theme=radical)
+
 <h3>Aqui estão algumas das tecnologias e ferramentas que estou estudando e utilizando:</h3>
 
 <h4>Linguagens de Programação:</h4>
