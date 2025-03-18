@@ -1,25 +1,66 @@
-- ### Ola, Marcelo aqui! =)
-  - Atualmente estou estudando Análise e Desenvolvimento de Sistemas, e pretendo trabalhar como programador e mais para frente farei uma pós em cibersegurança.
-##
 
-  
--🌱Há um tempo venha estudando e me atualizando sobre as tecnologias mais usadas-
-Python 
-  -Flet
-  -Django
-  -Pandas
+Olá, eu sou Marcelo! 👋
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas na Estácio
+🌱 Atualmente aprendendo e aprimorando minhas habilidades em programação
+🚀 Focado em me tornar um desenvolvedor full-stack e desenvolvimento mobile
+💡 Apaixonado por resolver problemas e criar soluções inovadoras
+
+🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias e ferramentas que estou estudando e utilizando:
+
+Linguagens de Programação:
+Python
 JavaScript
-  -React
-HTML, CSS
 
-##
--Apaixonado por tecnologia e por ajudar a facilitar a vida das pessoas através da programação.
-##
 
-### Sobre meu projeto de me tornar um programador
+Front-end:
+HTML5
+CSS3
+React
 
--Sempre fui ficcionado por tecnologia, e um dia sonhava em poder trabalhar e me dedicar a essa vida, pois sei que é uma área onde exige muito estudo e dedicação.
--Após ficar um bom tempo em uma areá que não tem relação com programação, hoje volto a estudar e agora mais decidido do que antes em me tornar um grande programador e poder não só criar sistemas, mas fazer algo em prol do bem mundial.
--Tenho tantos sonhos, que poderia escrever um livro, mas por hora quero me dedicar e conseguir meu sucesso por mérito, espero aqui poder compartilhar meus estudos, projetos próprios e outros casos que envolvam a programação em si.
--Lembrando que estou aprendendo e sempre disposto a aprender com meus erros e com dias que vão facilitar minha codagem.
+Back-end:
+Node.js
 
+
+Banco de Dados:
+MySQL
+Postgres
+
+Ferramentas:
+Git
+GitHub
+VS Code
+
+📚 Projetos Destacados
+Aqui estão alguns dos projetos que desenvolvi durante minha jornada de estudos:
+
+Nome do Projeto 1 - Breve descrição do projeto.
+
+Nome do Projeto 2 - Breve descrição do projeto.
+
+Nome do Projeto 3 - Breve descrição do projeto.
+
+📊 Estatísticas do GitHub
+Estatísticas do GitHub
+
+Linguagens mais usadas
+
+🌐 Conecte-se comigo
+Vamos trocar ideias e colaborar em projetos! Você pode me encontrar em:
+
+LinkedIn
+Instagram
+Gmail
+
+📝 Blog ou Artigos
+(Se você escreve artigos ou tem um blog, inclua links aqui!)
+
+🎯 Objetivos
+Aprender mais sobre desenvolvimento mobile
+
+Contribuir para projetos open source
+
+Desenvolver um portfólio sólido
+
+Obrigado por visitar meu perfil! 😄
+Vamos codar juntos! 🚀
