@@ -1,4 +1,4 @@
-<h2> Olá, eu sou Marcelo! 👋 </h2>
+<h2> Olá, eu sou Marcelo Andrade de Oliveira! 👋 </h2>
 
 👨‍💻 ![Estudante de ADS](https://img.shields.io/badge/Estudante_de_ADS-8A2BE2?style=for-the-badge&logo=book&logoColor=white) na Estácio
 
