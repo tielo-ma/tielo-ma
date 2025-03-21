@@ -52,14 +52,9 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <h3>📚 Projetos Destacados</h3>
-<h4>Aqui estão alguns dos projetos que desenvolvi durante minha jornada de estudos:</h4>
+<h4>Aqui estão alguns dos projetos que desenvolvi e durante minha jornada de estudos:</h4>
 
-Nome do Projeto 1 - Breve descrição do projeto.
-
-Nome do Projeto 2 - Breve descrição do projeto.
-
-Nome do Projeto 3 - Breve descrição do projeto.
-
+Buscador no google maps - Projeto consiste em buscar estabelecimentos tais como restaurantes, cafés, bristô etc o que o usuário quiser em uma localização específica.
 
 ### 🌐Conecte-se comigo
 Vamos trocar ideias e colaborar em projetos! Você pode me encontrar em:
