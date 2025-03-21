@@ -66,9 +66,9 @@ Vamos trocar ideias e colaborar em projetos! Você pode me encontrar em:
 https://privyma.netlify.app/
 
 ### 🎯 Objetivos
-Aprender mais sobre desenvolvimento mobile
+Aprender mais sobre desenvolvimento mobile/web
 
-Desenvolver habilidades em Pentest Kali/Linux
+Desenvolver habilidades em cibersegurança
 
 Contribuir para projetos open source
 
